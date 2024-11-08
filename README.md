@@ -42,7 +42,7 @@ Setup
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/customer-insight-predictor.git
+git clone https://github.com/divyansh1223/customer-insight-predictor.git
 
 
 	2.	Install the required libraries:
